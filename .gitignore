@@ -1,0 +1,6 @@
+data_files/stage_1/*
+data_files/stage_2/*
+data_files/final_data/*
+data_files/raw_data/*
+data_files/documentation/*
+/venv
